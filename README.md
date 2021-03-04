@@ -1,14 +1,14 @@
 # madlib
 A fun madlib game using the terminal
 
-#Description
+# Description
 A terminal game that takes input from the user to create a super funny story. There is only one story to be used however the main story and user input can be changed in 
 order to switch things up. 
 
-#Usage
+# Usage
 I played this game with my daughter and she found it hilarious. Can be used as entertainment for children especially during quarentine. 
 
-#Challanges
+# Challanges
 This is the first project I created using c++. I'm still not super familiar with syntax. I ran into small problems such as using endl. I thought the(l)
 was the number one instead of lowercase L. While doing some research as to why my project wouldn't build I discovered that I wasn't the only person
 who thought this and of course it would make sense to be an L because I'm assuming in means 'end line'. 
